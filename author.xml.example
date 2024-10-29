@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collaborationauthorlist SYSTEM "author.dtd">
+<collaborationauthorlist
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:cal="http://inspirehep.net/info/HepNames/tools/authors_xml/">
+  
+    <cal:creationDate>TODO</cal:creationDate>
+    <cal:publicationReference>TODO</cal:publicationReference>
+
+    <cal:collaborations>
+        <cal:collaboration id="c1">
+            <foaf:name>TELOS Collaboration</foaf:name>
+        </cal:collaboration>
+    </cal:collaborations>
+  
+    <cal:organizations>
+        <foaf:Organization id="su">
+            <cal:orgDomain>http://swansea.ac.uk</cal:orgDomain>
+            <foaf:name>Swansea University</foaf:name>
+            <cal:orgName source="ROR">https://ror.org/053fq8t95</cal:orgName>
+            <cal:orgAddress>Singleton Park, Swansea SA2 8PP UK</cal:orgAddress>
+        </foaf:Organization>
+        <foaf:Organization id="pnu">
+            <cal:orgDomain>http://pusan.ac.kr</cal:orgDomain>
+            <foaf:name>Pusan National University</foaf:name>
+            <cal:orgName source="ROR">https://ror.org/01an57a31</cal:orgName>
+            <cal:orgAddress>Busan 46241, Korea</cal:orgAddress>
+        </foaf:Organization>
+        <foaf:Organization id="ibs">
+            <cal:orgDomain>http://ibs.re.kr</cal:orgDomain>
+            <foaf:name>Institute for Basic Science</foaf:name>
+            <cal:orgName source="ROR">https://ror.org/00y0zf565</cal:orgName>
+            <cal:orgAddress>Daejeon, 34126, Korea</cal:orgAddress>
+        </foaf:Organization>
+        <foaf:Organization id="cycu">
+            <cal:orgDomain>http://cycu.edu.tw</cal:orgDomain>
+            <foaf:name>Chung-Yuan Christian University</foaf:name>
+            <cal:orgName source="ROR">https://ror.org/02w8ws377</cal:orgName>
+            <cal:orgAddress>Chung-Li 32023, Taiwan</cal:orgAddress>
+        </foaf:Organization>
+        <foaf:Organization id="up">
+            <cal:orgDomain>http://plymouth.ac.uk</cal:orgDomain>
+            <foaf:name>University of Plymouth</foaf:name>
+            <cal:orgName source="ROR">https://ror.org/008n7pv89</cal:orgName>
+            <cal:orgAddress> Plymouth, PL4 8AA, United Kingdom</cal:orgAddress>
+        </foaf:Organization>
+    </cal:organizations>
+  
+    <cal:authors>
+        <foaf:Person>
+            <foaf:name>Ed Bennett</foaf:name>
+            <foaf:givenName>Ed</foaf:givenName>
+            <foaf:familyName>Bennett</foaf:familyName>
+            <cal:authorNamePaper>Ed Bennett</cal:authorNamePaper>
+            <cal:authorCollaboration collaborationid="c1" />
+            <cal:authorAffiliations>
+                <cal:authorAffiliation organizationid="su"/>
+            </cal:authorAffiliations>
+            <cal:authorids>
+                <cal:authorid source="ORCID">https://orcid.org/0000-0002-1678-6701</cal:authorid>
+            </cal:authorids>
+        </foaf:Person>
+        <foaf:Person>
+            <foaf:name>Deog Ki Hong</foaf:name>
+            <foaf:givenName>Deog Ki</foaf:givenName>
+            <foaf:familyName>Hong</foaf:familyName>
+            <cal:authorNamePaper>Deog Ki Hong</cal:authorNamePaper>
+            <cal:authorCollaboration collaborationid="c1" />
+            <cal:authorAffiliations>
+                <cal:authorAffiliation organizationid="pnu"/>
+            </cal:authorAffiliations>
+            <cal:authorids>
+                <cal:authorid source="ORCID">https://orcid.org/0000-0002-3923-4184</cal:authorid>
+            </cal:authorids>
+        </foaf:Person>
+        <foaf:Person>
+            <foaf:name>Jong-Wan Lee</foaf:name>
+            <foaf:givenName>Jong-Wan</foaf:givenName>
+            <foaf:familyName>Lee</foaf:familyName>
+            <cal:authorNamePaper>Jong-Wan Lee</cal:authorNamePaper>
+            <cal:authorCollaboration collaborationid="c1" />
+            <cal:authorAffiliations>
+                <cal:authorAffiliation organizationid="ibs"/>
+            </cal:authorAffiliations>
+            <cal:authorids>
+                <cal:authorid source="ORCID">https://orcid.org/0000-0002-4616-2422</cal:authorid>
+            </cal:authorids>
+        </foaf:Person>
+        <foaf:Person>
+            <foaf:name>C.-J. David Lin</foaf:name>
+            <foaf:givenName>C.-J. David</foaf:givenName>
+            <foaf:familyName>Lin</foaf:familyName>
+            <cal:authorNamePaper>C.-J. David Lin</cal:authorNamePaper>
+            <cal:authorCollaboration collaborationid="c1" />
+            <cal:authorAffiliations>
+                <cal:authorAffiliation organizationid="cycu"/>
+            </cal:authorAffiliations>
+            <cal:authorids>
+                <cal:authorid source="ORCID">https://orcid.org/0000-0003-3743-0840</cal:authorid>
+            </cal:authorids>
+        </foaf:Person>
+        <foaf:Person>
+            <foaf:name>Biagio Lucini</foaf:name>
+            <foaf:givenName>Biagio</foaf:givenName>
+            <foaf:familyName>Lucini</foaf:familyName>
+            <cal:authorNamePaper>Biagio Lucini</cal:authorNamePaper>
+            <cal:authorCollaboration collaborationid="c1" />
+            <cal:authorAffiliations>
+                <cal:authorAffiliation organizationid="su"/>
+            </cal:authorAffiliations>
+            <cal:authorids>
+                <cal:authorid source="ORCID">https://orcid.org/0000-0001-8974-8266</cal:authorid>
+            </cal:authorids>
+        </foaf:Person>
+        <foaf:Person>
+            <foaf:name>Maurizio Piai</foaf:name>
+            <foaf:givenName>Maurizio</foaf:givenName>
+            <foaf:familyName>Piai</foaf:familyName>
+            <cal:authorNamePaper>Maurizio Piai</cal:authorNamePaper>
+            <cal:authorCollaboration collaborationid="c1" />
+            <cal:authorAffiliations>
+                <cal:authorAffiliation organizationid="su"/>
+            </cal:authorAffiliations>
+            <cal:authorids>
+                <cal:authorid source="ORCID">https://orcid.org/0000-0002-2251-0111</cal:authorid>
+            </cal:authorids>
+        </foaf:Person>
+        <foaf:Person>
+            <foaf:name>Davide Vadacchino</foaf:name>
+            <foaf:givenName>Davide</foaf:givenName>
+            <foaf:familyName>Vadacchino</foaf:familyName>
+            <cal:authorNamePaper>Davide Vadacchino</cal:authorNamePaper>
+            <cal:authorCollaboration collaborationid="c1" />
+            <cal:authorAffiliations>
+                <cal:authorAffiliation organizationid="up"/>
+            </cal:authorAffiliations>
+            <cal:authorids>
+                <cal:authorid source="ORCID">https://orcid.org/0000-0002-5783-5602</cal:authorid>
+            </cal:authorids>
+        </foaf:Person>
+    </cal:authors>
+</collaborationauthorlist>
